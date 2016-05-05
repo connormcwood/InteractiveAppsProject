@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$dbusername = "root"; //cmcgarty-wood
-$dbpassword = ""; //mehjbni
+$dbusername = "root";
+$dbpassword = "";
 $dbname = "cmcgarty-wood";
 
 // Create connection
